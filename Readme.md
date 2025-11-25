@@ -1,4 +1,4 @@
-# 🚗 *WhatNext Vision Motors: Shaping the Future of Mobility with Innovation and Excellence*
+# *WhatNext Vision Motors: Shaping the Future of Mobility with Innovation and Excellence*
 
 ## 🚀 *Project Overview*
 This Capstone Project involves the development of a tailored *Salesforce Customer Relationship Management (CRM)* solution for *WhatNext Vision Motors*.  
@@ -34,7 +34,8 @@ The solution leverages a combination of:
 
 ### *Data Model*
 - *Six (6) Custom Objects*  
-  (Vehicle, Vehicle Order, Vehicle Customer, Dealer, Test Drive Appointment, etc.)
+  (Vehicle, Vehicle Order, Vehicle Customer, Vehicle Dealer, Vehicle Test Drive and Vehicle Service 
+Request).
 
 ### *Automation Technologies*
 - *Pro-Code:*  
